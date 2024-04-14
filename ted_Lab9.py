@@ -31,10 +31,6 @@ def decode(input):
             string+=(str(i))
         string += str(i)
     return string
-            
-
-
-
 
 
 while(True):
